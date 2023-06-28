@@ -1,0 +1,2 @@
+Este repositório tem como aprensetar o projeto "oficial" da StarLanches apresentado durante o Segundo Semestre da faculdade, tendo conexão com BD, tendo um CRUD. Foi um projeto integrado com as matérias de Desenvolvimento Web II e Engenharia de Software II.
+A programação foi realizada em PHP, utilizando o PHPMyAdmin para linkar com o banco de dados MySQL.
